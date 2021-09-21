@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/VisualiseurWikipedia/static/js/main.b08060b9.chunk.js",
+    "main.js.map": "/VisualiseurWikipedia/static/js/main.b08060b9.chunk.js.map",
+    "runtime-main.js": "/VisualiseurWikipedia/static/js/runtime-main.41127445.js",
+    "runtime-main.js.map": "/VisualiseurWikipedia/static/js/runtime-main.41127445.js.map",
+    "static/css/2.983f79de.chunk.css": "/VisualiseurWikipedia/static/css/2.983f79de.chunk.css",
+    "static/js/2.8ea8be96.chunk.js": "/VisualiseurWikipedia/static/js/2.8ea8be96.chunk.js",
+    "static/js/2.8ea8be96.chunk.js.map": "/VisualiseurWikipedia/static/js/2.8ea8be96.chunk.js.map",
+    "static/js/3.f6d093b2.chunk.js": "/VisualiseurWikipedia/static/js/3.f6d093b2.chunk.js",
+    "static/js/3.f6d093b2.chunk.js.map": "/VisualiseurWikipedia/static/js/3.f6d093b2.chunk.js.map",
+    "index.html": "/VisualiseurWikipedia/index.html",
+    "static/css/2.983f79de.chunk.css.map": "/VisualiseurWikipedia/static/css/2.983f79de.chunk.css.map",
+    "static/js/2.8ea8be96.chunk.js.LICENSE.txt": "/VisualiseurWikipedia/static/js/2.8ea8be96.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41127445.js",
+    "static/css/2.983f79de.chunk.css",
+    "static/js/2.8ea8be96.chunk.js",
+    "static/js/main.b08060b9.chunk.js"
+  ]
+}
