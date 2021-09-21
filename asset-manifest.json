@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/VisualiseurWikipedia/static/css/main.b987e262.chunk.css",
-    "main.js": "/VisualiseurWikipedia/static/js/main.0753ed55.chunk.js",
-    "main.js.map": "/VisualiseurWikipedia/static/js/main.0753ed55.chunk.js.map",
+    "main.js": "/VisualiseurWikipedia/static/js/main.fb4ec3af.chunk.js",
+    "main.js.map": "/VisualiseurWikipedia/static/js/main.fb4ec3af.chunk.js.map",
     "runtime-main.js": "/VisualiseurWikipedia/static/js/runtime-main.bca50e4e.js",
     "runtime-main.js.map": "/VisualiseurWikipedia/static/js/runtime-main.bca50e4e.js.map",
     "static/css/2.983f79de.chunk.css": "/VisualiseurWikipedia/static/css/2.983f79de.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.983f79de.chunk.css",
     "static/js/2.d951d991.chunk.js",
     "static/css/main.b987e262.chunk.css",
-    "static/js/main.0753ed55.chunk.js"
+    "static/js/main.fb4ec3af.chunk.js"
   ]
 }
