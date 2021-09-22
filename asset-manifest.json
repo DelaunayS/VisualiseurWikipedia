@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/VisualiseurWikipedia/static/css/main.b987e262.chunk.css",
-    "main.js": "/VisualiseurWikipedia/static/js/main.fb4ec3af.chunk.js",
-    "main.js.map": "/VisualiseurWikipedia/static/js/main.fb4ec3af.chunk.js.map",
+    "main.css": "/VisualiseurWikipedia/static/css/main.096ef10d.chunk.css",
+    "main.js": "/VisualiseurWikipedia/static/js/main.e57ba8e6.chunk.js",
+    "main.js.map": "/VisualiseurWikipedia/static/js/main.e57ba8e6.chunk.js.map",
     "runtime-main.js": "/VisualiseurWikipedia/static/js/runtime-main.bca50e4e.js",
     "runtime-main.js.map": "/VisualiseurWikipedia/static/js/runtime-main.bca50e4e.js.map",
     "static/css/2.983f79de.chunk.css": "/VisualiseurWikipedia/static/css/2.983f79de.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.0148724e.chunk.js.map": "/VisualiseurWikipedia/static/js/3.0148724e.chunk.js.map",
     "index.html": "/VisualiseurWikipedia/index.html",
     "static/css/2.983f79de.chunk.css.map": "/VisualiseurWikipedia/static/css/2.983f79de.chunk.css.map",
-    "static/css/main.b987e262.chunk.css.map": "/VisualiseurWikipedia/static/css/main.b987e262.chunk.css.map",
+    "static/css/main.096ef10d.chunk.css.map": "/VisualiseurWikipedia/static/css/main.096ef10d.chunk.css.map",
     "static/js/2.d951d991.chunk.js.LICENSE.txt": "/VisualiseurWikipedia/static/js/2.d951d991.chunk.js.LICENSE.txt",
     "static/media/app.scss": "/VisualiseurWikipedia/static/media/wikipédia.6ae0ab0a.webp"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.bca50e4e.js",
     "static/css/2.983f79de.chunk.css",
     "static/js/2.d951d991.chunk.js",
-    "static/css/main.b987e262.chunk.css",
-    "static/js/main.fb4ec3af.chunk.js"
+    "static/css/main.096ef10d.chunk.css",
+    "static/js/main.e57ba8e6.chunk.js"
   ]
 }
