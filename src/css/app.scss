@@ -1,0 +1,41 @@
+body{
+    background-image: url('../img/wikipédia.webp');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;        
+    width: 95vw;
+}
+
+.randomLink{   
+    font-size:18px;
+    border: solid black 1px;
+    text-decoration: none;
+    color:white;
+    background-color: rgba(128,128,128, 0.8);
+    &:hover{
+        color:rgb(128,128,128);
+        background-color: rgba(248, 248, 248, 0.9) ;
+    }
+}
+
+.searchBoxInput{        
+    font-size:18px;      
+    color:rgb(128,128,128);    
+}
+
+.resultArea{  
+    border-radius: 20px;      
+    border: solid black 2px;    
+    background-color: rgb(128,128,128);    
+    &:hover{    
+        border: solid 2px  #5bc0de;  
+        background-color:rgb(248, 248, 248);                        
+    }     
+}
+
+.result_a{      
+    text-decoration: none;
+    font-size:12px;
+    color:rgb(248, 248, 248);            
+}
